@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="BtnSub" type="id" />
+    <item name="BtnAdd" type="id" />
+    <item name="Edit2" type="id" />
+    <item name="Edit1" type="id" />
+    <item name="BtnMul" type="id" />
+    <item name="BtnDiv" type="id" />
+    <item name="TextResult" type="id" />
+    <item name="Text1" type="id" />
+    <item name="ChkAgree" type="id" />
+    <item name="ImgPet" type="id" />
+    <item name="BtnOK" type="id" />
+    <item name="RdoRabbit" type="id" />
+    <item name="RdoCat" type="id" />
+    <item name="RdoDog" type="id" />
+    <item name="Rgroup1" type="id" />
+    <item name="Text2" type="id" />
+</resources>
